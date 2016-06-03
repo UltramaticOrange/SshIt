@@ -1,1 +1,3 @@
 ME. (I may have taken the name of this file too literally.)
+
+Not enough done yet to document. I'll doc the doc when Doc says it's good and doc'd............
